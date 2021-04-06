@@ -2,6 +2,7 @@
   "Images": {
     "LegendStudio": "finos/legend-studio:0.2.16",
     "LegendEngine": "finos/legend-engine-server:2.21.0",
-    "LegendSDLC": "ehagerup/legend-sdlc:0.0.1"
+    "LegendSDLC": "ehagerup/legend-sdlc:0.0.1",
+    "GitlabCE": "gitlab/gitlab-ce:13.10.2-ce.0"
   }
 }
